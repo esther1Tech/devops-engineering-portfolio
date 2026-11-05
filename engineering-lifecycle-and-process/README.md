@@ -1,9 +1,5 @@
 # Engineering Lifecycle & Software Delivery Process
 
-**Course:** DevOps Engineering  
-**Assignment:** 01  
-**Topic:** Engineering Lifecycle, Git Branching, DevOps, MLOps, Code Promotion & Testing
-
 ---
 
 ## Overview
